@@ -19,7 +19,7 @@ My focus is to try to always search for opportunities to grow and learn the tren
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning React, NextJS and Redux;
+- 🚀 I’m currently learning React, Next.js and Redux;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://fsantiago1987.github.io/Resume/).
 
