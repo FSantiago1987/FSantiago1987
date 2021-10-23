@@ -28,8 +28,8 @@ My focus is to try to always search for opportunities to grow and learn the tren
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java       18 hrs 9 mins   █████████████████████████   99.76 % 
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Java       12 hrs 52 mins  █████████████████████████   99.66 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
 
