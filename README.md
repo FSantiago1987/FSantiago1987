@@ -28,7 +28,7 @@ My focus is to try to always search for opportunities to grow and learn the tren
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
