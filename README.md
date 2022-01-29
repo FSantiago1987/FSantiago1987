@@ -28,7 +28,8 @@ My focus is to try to always search for opportunities to grow and learn the tren
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Bash   27 mins         █████████████████████████   100.00 % 
+Bash   58 mins         ███████████████████████▓░   94.85 % 
+Text   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 <!--END_SECTION:waka-->
 
