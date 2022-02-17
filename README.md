@@ -28,7 +28,11 @@ My focus is to try to always search for opportunities to grow and learn the tren
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 14 mins
+
+CSS    7 mins          ████████████░░░░░░░░░░░░░   48.04 % 
+JSON   6 mins          ███████████░░░░░░░░░░░░░░   44.41 % 
+HTML   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 <!--END_SECTION:waka-->
 
