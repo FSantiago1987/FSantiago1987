@@ -29,7 +29,10 @@ My focus is to try to always search for opportunities to grow and learn the tren
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 13 mins    ███████████████░░░░░░░░░░   60.47 %
+Java         29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+HTML         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
