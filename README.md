@@ -29,12 +29,12 @@ My focus is to try to always search for opportunities to grow and learn the tren
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.65 %
-HTML         2 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-Java         1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-Properties   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-XML          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-JSON         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+TypeScript   4 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   37.87 %
+HTML         2 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+Java         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Properties   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+JSON         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+XML          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
 ```
 
 <!--END_SECTION:waka-->
